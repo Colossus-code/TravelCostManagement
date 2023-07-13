@@ -1,0 +1,67 @@
+[
+  {
+    "planetName": "Tatooine",
+    "code": "TAT",
+    "sector": "1A"
+  },
+  {
+    "planetName": "Alderaan",
+    "code": "ALD",
+    "sector": "1A"
+  },
+  {
+    "planetName": "Yavin IV",
+    "code": "YAV",
+    "sector": "2A"
+  },
+  {
+    "planetName": "Hoth",
+    "code": "HOT",
+    "sector": "1A"
+  },
+  {
+    "planetName": "Dagobah",
+    "code": "DAG",
+    "sector": "2A"
+  },
+  {
+    "planetName": "Endor",
+    "code": "END",
+    "sector": "1A"
+  },
+  {
+    "planetName": "Naboo",
+    "code": "NAB",
+    "sector": "1A"
+  },
+  {
+    "planetName": "Couruscant",
+    "code": "COR",
+    "sector": "1A"
+  },
+  {
+    "planetName": "Kamino",
+    "code": "KAM",
+    "sector": "2A"
+  },
+  {
+    "planetName": "Geonosian",
+    "code": "GEO",
+    "sector": "1A"
+  },
+  {
+    "planetName": "Utapau",
+    "code": "UTA",
+    "sector": "2A"
+  },
+  {
+    "planetName": "Mustafar",
+    "code": "MUS",
+    "sector": "2A"
+  },  
+  {
+    "planetName": "Bespin",
+    "code": "BES",
+    "sector": "2A"
+  }
+]

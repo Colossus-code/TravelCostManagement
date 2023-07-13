@@ -1,0 +1,339 @@
+{
+  "TAT": [
+    {
+      "code": "ALD",
+      "lunarYears": 87.43
+    },
+    {
+      "code": "YAV",
+      "lunarYears": 34.01
+    },
+    {
+      "code": "HOT",
+      "lunarYears": 45.84
+    },
+    {
+      "code": "DAG",
+      "lunarYears": 12.39
+    },
+    {
+      "code": "BES",
+      "lunarYears": 19.28
+    },
+    {
+      "code": "END",
+      "lunarYears": 52.66
+    },
+    {
+      "code": "NAB",
+      "lunarYears": 38.23
+    },
+    {
+      "code": "COR",
+      "lunarYears": 18.53
+    },
+    {
+      "code": "KAM",
+      "lunarYears": 73.67
+    },
+    {
+      "code": "GEO",
+      "lunarYears": 87.25
+    },
+    {
+      "code": "UTA",
+      "lunarYears": 32.32
+    },
+    {
+      "code": "MUS",
+      "lunarYears": 48.82
+    }
+  ],
+  "ALD": [
+    {
+      "code": "YAV",
+      "lunarYears": 93.97
+    },
+    {
+      "code": "HOT",
+      "lunarYears": 56.23
+    },
+    {
+      "code": "DAG",
+      "lunarYears": 47.03
+    },
+    {
+      "code": "BES",
+      "lunarYears": 85.68
+    },
+    {
+      "code": "END",
+      "lunarYears": 35.26
+    },
+    {
+      "code": "NAB",
+      "lunarYears": 33.94
+    },
+    {
+      "code": "COR",
+      "lunarYears": 25.84
+    },
+    {
+      "code": "KAM",
+      "lunarYears": 45.74
+    },
+    {
+      "code": "GEO",
+      "lunarYears": 89.93
+    },
+    {
+      "code": "UTA",
+      "lunarYears": 83.65
+    },
+    {
+      "code": "MUS",
+      "lunarYears": 46.12
+    }
+  ],
+  "YAV": [
+    {
+      "code": "HOT",
+      "lunarYears": 36.29
+    },
+    {
+      "code": "DAG",
+      "lunarYears": 49.93
+    },
+    {
+      "code": "BES",
+      "lunarYears": 45.68
+    },
+    {
+      "code": "END",
+      "lunarYears": 21.99
+    },
+    {
+      "code": "NAB",
+      "lunarYears": 56.11
+    },
+    {
+      "code": "COR",
+      "lunarYears": 25.84
+    },
+    {
+      "code": "KAM",
+      "lunarYears": 92.31
+    },
+    {
+      "code": "GEO",
+      "lunarYears": 83.16
+    },
+    {
+      "code": "UTA",
+      "lunarYears": 78.05
+    },
+    {
+      "code": "MUS",
+      "lunarYears": 41.76
+    }
+  ],
+  "HOT": [
+    {
+      "code": "DAG",
+      "lunarYears": 37.17
+    },
+    {
+      "code": "BES",
+      "lunarYears": 39.44
+    },
+    {
+      "code": "END",
+      "lunarYears": 73.39
+    },
+    {
+      "code": "NAB",
+      "lunarYears": 17.17
+    },
+    {
+      "code": "COR",
+      "lunarYears": 67.43
+    },
+    {
+      "code": "KAM",
+      "lunarYears": 21.58
+    },
+    {
+      "code": "GEO",
+      "lunarYears": 91.01
+    },
+    {
+      "code": "UTA",
+      "lunarYears": 17.83
+    },
+    {
+      "code": "MUS",
+      "lunarYears": 38.39
+    }
+  ],
+  "DAG": [
+    {
+      "code": "BES",
+      "lunarYears": 19.01
+    },
+    {
+      "code": "END",
+      "lunarYears": 37.15
+    },
+    {
+      "code": "NAB",
+      "lunarYears": 51.92
+    },
+    {
+      "code": "COR",
+      "lunarYears": 49.91
+    },
+    {
+      "code": "KAM",
+      "lunarYears": 7.91
+    },
+    {
+      "code": "GEO",
+      "lunarYears": 21.50
+    },
+    {
+      "code": "UTA",
+      "lunarYears": 24.13
+    },
+    {
+      "code": "MUS",
+      "lunarYears": 77.39
+    }
+  ],
+  "BES": [
+    {
+      "code": "END",
+      "lunarYears": 17.11
+    },
+    {
+      "code": "NAB",
+      "lunarYears": 33.05
+    },
+    {
+      "code": "COR",
+      "lunarYears": 19.17
+    },
+    {
+      "code": "KAM",
+      "lunarYears": 71.05
+    },
+    {
+      "code": "GEO",
+      "lunarYears": 33.51
+    },
+    {
+      "code": "UTA",
+      "lunarYears": 46.46
+    },
+    {
+      "code": "MUS",
+      "lunarYears": 79.39
+    }
+  ],
+  "END": [
+    {
+      "code": "NAB",
+      "lunarYears": 13.05
+    },
+    {
+      "code": "COR",
+      "lunarYears": 11.17
+    },
+    {
+      "code": "KAM",
+      "lunarYears": 96.54
+    },
+    {
+      "code": "GEO",
+      "lunarYears": 13.81
+    },
+    {
+      "code": "UTA",
+      "lunarYears": 55.31
+    },
+    {
+      "code": "MUS",
+      "lunarYears": 71.11
+    }
+  ],
+  "NAB": [
+    {
+      "code": "COR",
+      "lunarYears": 39.29
+    },
+    {
+      "code": "KAM",
+      "lunarYears": 13.86
+    },
+    {
+      "code": "GEO",
+      "lunarYears": 12.09
+    },
+    {
+      "code": "UTA",
+      "lunarYears": 21.03
+    },
+    {
+      "code": "MUS",
+      "lunarYears": 99.77
+    }
+  ],
+  "COR": [
+    {
+      "code": "KAM",
+      "lunarYears": 53.43
+    },
+    {
+      "code": "GEO",
+      "lunarYears": 42.97
+    },
+    {
+      "code": "UTA",
+      "lunarYears": 29.01
+    },
+    {
+      "code": "MUS",
+      "lunarYears": 46.17
+    }
+  ],
+  "KAM": [
+    {
+      "code": "GEO",
+      "lunarYears": 22.31
+    },
+    {
+      "code": "UTA",
+      "lunarYears": 59.63
+    },
+    {
+      "code": "MUS",
+      "lunarYears": 57.71
+    }
+  ],
+  "GEO": [
+    {
+      "code": "UTA",
+      "lunarYears": 21.07
+    },
+    {
+      "code": "MUS",
+      "lunarYears": 31.44
+    }
+  ],
+  "UTA": [
+    {
+      "code": "MUS",
+      "lunarYears": 7.11
+    }
+  ],
+  "MUS": []
+}

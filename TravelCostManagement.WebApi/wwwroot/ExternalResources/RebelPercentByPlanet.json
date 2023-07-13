@@ -1,0 +1,54 @@
+[
+  {
+    "planetName": "Tatooine",
+    "rebelPercent": "21"
+  },
+  {
+    "planetName": "Alderaan",
+    "rebelPercent": "33"
+  },
+  {
+    "planetName": "Yavin IV",
+    "rebelPercent": "67"
+  },
+  {
+    "planetName": "Hoth",
+    "rebelPercent": "15"
+  },
+  {
+    "planetName": "Dagobah",
+    "rebelPercent": "44"
+  },
+  {
+    "planetName": "Endor",
+    "rebelPercent": "11"
+  },
+  {
+    "planetName": "Naboo",
+    "rebelPercent": "61"
+  },
+  {
+    "planetName": "Couruscant",
+    "rebelPercent": "7"
+  },
+  {
+    "planetName": "Kamino",
+    "rebelPercent": "33"
+  },
+  {
+    "planetName": "Geonosian",
+    "rebelPercent": "21"
+  },
+  {
+    "planetName": "Utapau",
+    "rebelPercent": "5"
+  },
+  {
+    "planetName": "Mustafar",
+    "rebelPercent": "64"
+  },
+  {
+    "planetName": "Bespin",
+    "rebelPercent": "100"
+  }
+]
